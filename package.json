@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sugin223pl/vuezip.git"
+    "url": "git+https://github.com/sugin223pl/vuezip.git"
   },
   "keywords": [
     "vue-cli3",
@@ -30,5 +30,8 @@
   "homepage": "https://github.com/sugin223pl/vuezip#readme",
   "devDependencies": {
     "archiver": "^3.0.0"
+  },
+  "publishConfig": {
+	"registry": "https://npm.pkg.github.com/"
   }
 }
