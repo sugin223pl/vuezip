@@ -1,0 +1,34 @@
+{
+  "name": "vuezip",
+  "version": "1.0.0",
+  "description": "A vue cli3 plugin to archive files in 'dist' or 'prod' folder to a zip file after building, but with a twist.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sugin223pl/vuezip.git"
+  },
+  "keywords": [
+    "vue-cli3",
+    "plugin",
+    "zip production",
+    "zip dist",
+    "zip folder",
+    "zip",
+    "archive",
+    "vue-clie",
+    "vue",
+    "zip"
+  ],
+  "author": "sugin223pl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sugin223pl/vuezip/issues"
+  },
+  "homepage": "https://github.com/sugin223pl/vuezip#readme",
+  "devDependencies": {
+    "archiver": "^3.0.0"
+  }
+}
